@@ -1,0 +1,36 @@
+/* Write your CSS code here */
+.header-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 300px;
+  text-decoration: none;
+}
+
+.logo {
+  height: 80px;
+  width: 80px;
+}
+
+li {
+  font-weight: 900;
+  color: #12022f;
+}
+
+Link {
+  text-decoration: none;
+}
